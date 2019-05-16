@@ -443,7 +443,7 @@ a, a:hover {
 }
 
 #video_pattern {
-    background-image : url(../images/pattern.png);
+    background-image : url(../images/Pog1.png);
     position         : fixed;
     -ms-filter       : "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
     filter           : alpha(opacity=80);
